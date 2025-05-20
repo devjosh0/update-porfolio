@@ -18,7 +18,7 @@ export default function Header() {
     <header className="sticky top-0 z-50 bg-white/80 dark:bg-black/80 backdrop-blur-md shadow-sm">
       <div className="max-w-7xl mx-auto flex justify-between items-center px-6 py-4">
         {/* Logo */}
-        <div className="text-xl font-bold">Hussein</div>
+        <div className="text-xl font-bold">H.A</div>
 
         {/* Desktop Navigation */}
         <nav className="hidden md:flex space-x-6">

@@ -23,7 +23,7 @@ export default function ExperienceSection() {
     },
         {
     role: "Software Test Engineer",
-     period: "(Nov) 2022 – Jan 2024)",
+     period: "(Nov 2022 – Jan 2024)",
       projectname: "Capti Vr",
       details: [
         "Developed and maintained automated test scripts using Selenium WebDriver and Appium, optimizing cross-platform testing for both web and mobile applications to test the CaptiVr Application that provides High-Quality 360-degree Video Solutions. This initiative reduced manual testing efforts by 50%, significantly improving the efficiency of the QA process and accelerating product delivery timelines.",
